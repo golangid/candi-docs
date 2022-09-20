@@ -46,3 +46,5 @@
 - **Cross usecases among handlers**
 - **Cross data repositories among usecases**
 - **Maintanable, There is no way you can call repository layer from handlers !**
+- **And many more..** <a href="#/quickstart/"> Click here to start </a>
+
