@@ -14,4 +14,5 @@
         - <a href="#/service/module/repository/">repository</a>
       - <a href="#/service/domain/">domain / model</a>
     - <a href="#/taskque/">TaskQueueing Worker / Monitoring</a>
+    - <a href="#/migration/">Database Migration</a>
 - <b>Advanced Topics</b>

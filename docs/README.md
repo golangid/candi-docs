@@ -36,6 +36,7 @@
 - **Candi supports NoSQL Databases :**
   - MongoDB
   - ArangoDB
+- **Candi supports database migration using [Goose](https://github.com/pressly/goose ':crossorgin') with simplified make file command**
 
 # Features
 

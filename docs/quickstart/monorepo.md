@@ -1,8 +1,10 @@
 # Generate Monorepo
 
+Monorepo in candi's term is collection of runnable services with single .git and go.mod file.
+
 ### Init monorepo project
 
-> After successful <a href="#/quickstart/install"> Installation </a>, open terminal inside your project and type `candi`. you will be prompted options, type `1` for monorepo and enter your `project name`. the result will be
+> After successful <a href="#/quickstart/install"> Installation </a>, open terminal inside your project and type `candi`. you will be prompted options, type `1` for monorepo and enter your `project name`.
 
 <img src="assets/monorepo-terminal.png" />
 
