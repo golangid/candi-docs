@@ -63,7 +63,7 @@ Usage of candi:
         [project generator] generate go.mod or not (default true)
 ```
 
-### Generating Project
+## Generating Project
 <a href="#/quickstart/monorepo">Click Here For Monorepo</a>
 
 <a href="#/quickstart/microservice">Click Here For Microservice</a>

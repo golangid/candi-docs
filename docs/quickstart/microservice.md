@@ -2,7 +2,7 @@
 
 Microservice in candi's term is single runable service with single .git and go.mod file.
 
-### Init microservice project
+## Init microservice project
 
 > After successful <a href="#/quickstart/install"> Installation </a>
 
@@ -23,7 +23,7 @@ Microservice in candi's term is single runable service with single .git and go.m
 
 <img src="assets/microservice-structure.png" />
 
-### Run generated microservice project
+## Run generated microservice project
 
 1. to run you need to edit and set your database connection in `.env` file inside your service. **For more detailed config <a href="#/configuration/" >Click Here</a>**
 2. download dependencies by typing `go mod tidy` and just type `make run` to run your generated microservice.

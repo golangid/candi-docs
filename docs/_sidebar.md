@@ -13,6 +13,6 @@
         - <a href="#/service/module/usecase/">usecase</a>
         - <a href="#/service/module/repository/">repository</a>
       - <a href="#/service/domain/">domain / model</a>
-    - <a href="#/taskque/">TaskQueueing Worker / Monitoring</a>
+    - <a href="#/taskque/">Task Queue</a>
     - <a href="#/migration/">Database Migration</a>
 - <b>Advanced Topics</b>

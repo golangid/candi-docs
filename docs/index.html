@@ -1,34 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Candi</title>
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="Description">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <style type="text/css">
-    .content {
-      overflow: auto;
-    }
-  </style>
-</head>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
+    <meta name="description" content="">
+    <title>Candi</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+    <!-- Custom Styles -->
+    <style>
+      :root {
+        --theme-hue: 550;
+      }
+    </style>
+ </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'candi',
+      name: 'CANDI',
       repo: 'https://github.com/golangid/candi',
-      loadSidebar: true,
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      },
-      relativePath: true,
+      loadSidebar:true,
+      coverpage: "coverpage.md",
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/gh/rizdaprasetya/docsify-fix-pageload-scroll@master/index.js"></script>
+  <script src="https://unpkg.com/docsify-themeable"></script>
+  <!-- Required -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  <!-- plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
 </body>
 </html>

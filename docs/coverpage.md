@@ -1,0 +1,19 @@
+# Candi Golang Framework
+
+> Golang project generator framework
+
+<p align="center">
+  <img src="https://storage.googleapis.com/agungdp/static/logo/golang.png" width="80" alt="golang logo" />
+  <img src="https://storage.googleapis.com/agungdp/static/logo/docker.png" width="80" hspace="10" alt="docker logo" />
+  <img src="https://storage.googleapis.com/agungdp/static/logo/rest.png" width="80" hspace="10" alt="rest logo" />
+  <img src="https://storage.googleapis.com/agungdp/static/logo/graphql.png" width="80" alt="graphql logo" />
+  <img src="https://storage.googleapis.com/agungdp/static/logo/grpc.png" width="160" hspace="15" vspace="15" alt="grpc logo" />
+  <img src="https://storage.googleapis.com/agungdp/static/logo/kafka.png" height="80" alt="kafka logo" />
+</p>
+
+<h3 style="color:white">Generate monorepo / microservice project within seconds</h3>
+<h3 style="color:white">Using simple Candi-CLI command and make file command</h3>
+
+
+[Get Started](#main)
+[GitHub](https://github.com/golangid/candi)
