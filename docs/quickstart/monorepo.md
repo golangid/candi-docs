@@ -2,7 +2,7 @@
 
 Monorepo in candi's term is collection of runnable services with single .git and go.mod file.
 
-### Init monorepo project
+## Init monorepo project
 
 > After successful <a href="#/quickstart/install"> Installation </a>, open terminal inside your project and type `candi`. you will be prompted options, type `1` for monorepo and enter your `project name`.
 
@@ -12,7 +12,7 @@ Monorepo in candi's term is collection of runnable services with single .git and
 
 <img src="assets/monorepo-root.png" />
 
-### Add service to generated monorepo project
+## Add service to generated monorepo project
 
 > after successfully generated then change directory to generated project by typing `cd project name` and type `candi` again to init services. type `2` to init service inside your generated monorepo project folder and type your `service name` and `module name`.
 
