@@ -12,7 +12,10 @@
           - <a href="#/service/module/handler/validator/">validator</a>
         - <a href="#/service/module/usecase/">usecase</a>
         - <a href="#/service/module/repository/">repository</a>
-      - <a href="#/service/domain/">domain / model</a>
+      - <a href="#/service/api/">API definition</a>
+        - <a href="#/service/api/jsonschema/">json schema</a>
+        - <a href="#/service/api/graphql/">graphql</a>
+        - <a href="#/service/api/grpc/">grpc</a>
     - <a href="#/taskque/">Task Queue</a>
     - <a href="#/migration/">Database Migration</a>
 - <b>Advanced Topics</b>
