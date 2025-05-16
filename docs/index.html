@@ -6,8 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
     <meta name="description" content="">
     <title>Candi</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
-    <!-- Custom Styles -->
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css" />
     <style>
       :root {
         --theme-hue: 550;
@@ -18,9 +17,12 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'CANDI',
-      repo: 'https://github.com/golangid/candi',
-      loadSidebar:true,
+      name: 'Candi',
+      repo: 'golangid/candi',
+      loadSidebar: true,
+      subMaxLevel: 2,
+      loadNavbar: true,
+      themeColor: '#42b983',
       coverpage: "coverpage.md",
     }
   </script>
