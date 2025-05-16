@@ -1,6 +1,6 @@
-# Candi Golang Framework
+# Candi
 
-> Golang project generator framework
+## Golang Project Generator Framework
 
 <p align="center">
   <img src="assets/coverpage/coverpage-golang.png" width="80" alt="golang logo" />
@@ -11,9 +11,9 @@
   <img src="assets/coverpage/coverpage-kafka.png" height="80" alt="kafka logo" />
 </p>
 
-<h3 style="color:white">Generate monorepo / microservice project within seconds</h3>
-<h3 style="color:white">Using simple Candi-CLI command and make file command</h3>
+<h2>Build scalable, modular, production-ready Go backends effortlessly.</h2>
+<br />
+<br />
 
-
-[Get Started](#main)
 [GitHub](https://github.com/golangid/candi)
+[Get Started](getting-started/what-is-candi.md)

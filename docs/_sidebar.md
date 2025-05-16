@@ -1,21 +1,19 @@
-- <b>Getting Started</b>
-    - <a href="#/quickstart/">Quick Start</a>
-      - <a href="#/quickstart/install">install</a>
-      - <a href="#/quickstart/monorepo">generate monorepo</a>
-      - <a href="#/quickstart/microservice">generate microservice</a>
-    - <a href="#/configuration/">Configuration</a>
-    - <a href="#/service/">Service</a>
-      - <a href="#/service/module/">module</a>
-        - <a href="#/service/module/handler/">handler</a>
-          - <a href="#/service/module/handler/rest/">REST</a>
-          - <a href="#/service/module/handler/worker/">worker</a>
-          - <a href="#/service/module/handler/validator/">validator</a>
-        - <a href="#/service/module/usecase/">usecase</a>
-        - <a href="#/service/module/repository/">repository</a>
-      - <a href="#/service/api/">API definition</a>
-        - <a href="#/service/api/jsonschema/">json schema</a>
-        - <a href="#/service/api/graphql/">graphql</a>
-        - <a href="#/service/api/grpc/">grpc</a>
-    - <a href="#/taskque/">Task Queue</a>
-    - <a href="#/migration/">Database Migration</a>
-- <b>Advanced Topics</b>
+* 🚀 Getting Started
+  * [What is Candi?](getting-started/what-is-candi.md)
+  * [Project Generation](getting-started/project-generation.md)
+  * [Project Structure](getting-started/project-structure)
+  * [Adding Module](getting-started/adding-module.md)
+  * [Adding Handler](getting-started/adding-handler.md)
+
+<!-- * Server Types
+  * [REST API](servers/rest.md)
+  * [GraphQL](servers/graphql.md)
+  * [gRPC](servers/grpc.md)
+  * [Kafka Consumer](servers/kafka.md)
+  * [Redis Subscriber](servers/redis.md)
+  * [PostgreSQL Listener](servers/postgre-event.md)
+
+* Advanced
+  * [Task Queues](advanced/task-queue.md)
+  * [Scheduler](advanced/scheduler.md)
+  * [Middleware](advanced/middleware.md) -->
